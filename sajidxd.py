@@ -57,8 +57,8 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mSajid Laghari
-\033[1;96mInstagram \033[1;93m: \033[1;ShoqNahe
-\033[1;96mFacebook  \033[1;93m: \033[1; XD007H33RE
+\033[1;96mInstagram \033[1;93m: \033[1;XD007H33RE
+\033[1;96mFacebook  \033[1;93m: \033[1;XD007H33RE
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/xd007here
 \033[1;91m======================================="""
 
@@ -96,13 +96,13 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+            print "Logged in successfully as Sajid xD " + username
             loop = 'false'
         else:
-            print "Wrong Password"
+            print "masti kar ryan e"
             os.system('xdg-open https://www.Lagharii.ga')
     else:
-        print "Wrong Username"
+        print "Chal mera putar chutty kar"
         os.system('xdg-open https://www.Lagharii.ga')
 
 def login():
